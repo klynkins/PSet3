@@ -100,3 +100,5 @@ bool is_rest(string s)
     }
     return false;
 }
+
+//Good use of comments. Easy to understands
